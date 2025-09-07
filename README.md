@@ -3,7 +3,7 @@ GitHub ini digunakan untuk memperlihatkan hasil Tugas UKK yang telah dikerjakan 
 
 ### Struktur Folder:
 1. Structures:
-→ Assets (JavaScript & CSS), Logins & Registers (Users & Staffs), Dashboards (Users & Staffs), Logout.                    
+→ Assets (JavaScript & CSS), Logins & Registers (Users & Staffs), Dashboards (Users & Staffs), Logout.
 → UI Mockup
 → SQL.
 4. Diagrams  → Charts.
