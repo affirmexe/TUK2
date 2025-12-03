@@ -11,3 +11,9 @@ GitHub ini digunakan untuk memperlihatkan hasil Tugas UKK yang telah dikerjakan 
 
 #### 2. Dokumentasi SQL:
 <img width="1140" height="2382" alt="Database_Code" src="https://github.com/user-attachments/assets/41053116-722e-4cda-9569-23fdc8e635dc" />
+
+#### 3. Dokumentasi Login:
+<img width="3648" height="5574" alt="code" src="https://github.com/user-attachments/assets/c832d393-515d-427a-a7a1-5bb2d9e3ed6c" />
+
+#### 4. Dokumentasi Register:
+![Uploading code.png…]()
